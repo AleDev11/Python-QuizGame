@@ -28,5 +28,5 @@ if answer.lower() == 'azul':
     score += 1
 else:
     print('Incorrecto')
-    
+
 print('Tu puntaje es', score)
